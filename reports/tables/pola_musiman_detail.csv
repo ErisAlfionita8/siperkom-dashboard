@@ -1,0 +1,181 @@
+komoditas,bulan_ke,indeks_rata,jumlah_tahun,tahun_di_atas,konsisten_tinggi,konsisten_rendah
+Bawang Bombay,1,83.57,3,0,False,True
+Bawang Bombay,2,83.32,3,0,False,True
+Bawang Bombay,3,87.27,3,0,False,True
+Bawang Bombay,4,104.11,3,1,False,False
+Bawang Bombay,5,124.41,3,3,True,False
+Bawang Bombay,6,120.98,3,3,True,False
+Bawang Bombay,7,110.62,3,3,True,False
+Bawang Bombay,8,100.72,3,2,False,False
+Bawang Bombay,9,98.09,3,1,False,False
+Bawang Bombay,10,97.07,3,1,False,False
+Bawang Bombay,11,94.69,3,0,False,True
+Bawang Bombay,12,95.13,3,0,False,True
+Bayam (Jenis Sayur),1,94.38,3,0,False,True
+Bayam (Jenis Sayur),2,99.34,3,2,False,False
+Bayam (Jenis Sayur),3,100.21,3,2,False,False
+Bayam (Jenis Sayur),4,104.1,3,3,True,False
+Bayam (Jenis Sayur),5,104.19,3,3,True,False
+Bayam (Jenis Sayur),6,104.79,3,3,True,False
+Bayam (Jenis Sayur),7,100.52,3,1,False,False
+Bayam (Jenis Sayur),8,97.55,3,1,False,False
+Bayam (Jenis Sayur),9,94.09,3,0,False,True
+Bayam (Jenis Sayur),10,97.24,3,0,False,False
+Bayam (Jenis Sayur),11,99.12,3,1,False,False
+Bayam (Jenis Sayur),12,104.46,3,3,True,False
+Beras Jagung,1,94.97,3,0,False,True
+Beras Jagung,2,114.62,3,1,False,False
+Beras Jagung,3,98.74,3,1,False,False
+Beras Jagung,4,100.57,3,1,False,False
+Beras Jagung,5,100.39,3,1,False,False
+Beras Jagung,6,99.33,3,1,False,False
+Beras Jagung,7,98.2,3,1,False,False
+Beras Jagung,8,98.22,3,2,False,False
+Beras Jagung,9,97.92,3,2,False,False
+Beras Jagung,10,99.22,3,2,False,False
+Beras Jagung,11,98.68,3,1,False,False
+Beras Jagung,12,99.14,3,1,False,False
+Garam Halus (Cap Kapal),1,101.11,3,1,False,False
+Garam Halus (Cap Kapal),2,97.62,3,0,False,False
+Garam Halus (Cap Kapal),3,98.0,3,0,False,False
+Garam Halus (Cap Kapal),4,98.18,3,0,False,False
+Garam Halus (Cap Kapal),5,97.83,3,0,False,False
+Garam Halus (Cap Kapal),6,98.18,3,0,False,False
+Garam Halus (Cap Kapal),7,97.76,3,0,False,False
+Garam Halus (Cap Kapal),8,99.55,3,1,False,False
+Garam Halus (Cap Kapal),9,100.09,3,1,False,False
+Garam Halus (Cap Kapal),10,103.1,3,3,True,False
+Garam Halus (Cap Kapal),11,103.91,3,3,True,False
+Garam Halus (Cap Kapal),12,104.67,3,3,True,False
+Gula Jawa/Merah (Bahan Kelapa),1,96.87,2,0,False,False
+Gula Jawa/Merah (Bahan Kelapa),2,97.64,2,0,False,False
+Gula Jawa/Merah (Bahan Kelapa),3,98.23,2,0,False,False
+Gula Jawa/Merah (Bahan Kelapa),4,99.16,2,0,False,False
+Gula Jawa/Merah (Bahan Kelapa),5,99.42,2,0,False,False
+Gula Jawa/Merah (Bahan Kelapa),6,100.36,2,1,False,False
+Gula Jawa/Merah (Bahan Kelapa),7,100.91,2,2,False,False
+Gula Jawa/Merah (Bahan Kelapa),8,101.37,2,2,False,False
+Gula Jawa/Merah (Bahan Kelapa),9,100.85,2,2,False,False
+Gula Jawa/Merah (Bahan Kelapa),10,100.87,2,1,False,False
+Gula Jawa/Merah (Bahan Kelapa),11,102.19,2,2,False,False
+Gula Jawa/Merah (Bahan Kelapa),12,102.14,2,2,False,False
+Kacang Hijau,1,97.98,3,2,False,False
+Kacang Hijau,2,98.5,3,2,False,False
+Kacang Hijau,3,102.06,3,2,False,False
+Kacang Hijau,4,101.96,3,1,False,False
+Kacang Hijau,5,101.77,3,2,False,False
+Kacang Hijau,6,100.71,3,2,False,False
+Kacang Hijau,7,99.88,3,1,False,False
+Kacang Hijau,8,99.88,3,2,False,False
+Kacang Hijau,9,98.63,3,1,False,False
+Kacang Hijau,10,98.27,3,1,False,False
+Kacang Hijau,11,99.94,3,1,False,False
+Kacang Hijau,12,100.43,3,1,False,False
+Kacang Kedelai (Kualitas Import),1,101.23,3,1,False,False
+Kacang Kedelai (Kualitas Import),2,101.19,3,1,False,False
+Kacang Kedelai (Kualitas Import),3,103.35,3,2,False,False
+Kacang Kedelai (Kualitas Import),4,103.26,3,2,False,False
+Kacang Kedelai (Kualitas Import),5,100.85,3,2,False,False
+Kacang Kedelai (Kualitas Import),6,101.02,3,2,False,False
+Kacang Kedelai (Kualitas Import),7,100.6,3,2,False,False
+Kacang Kedelai (Kualitas Import),8,99.42,3,2,False,False
+Kacang Kedelai (Kualitas Import),9,97.32,3,1,False,False
+Kacang Kedelai (Kualitas Import),10,95.16,3,1,False,False
+Kacang Kedelai (Kualitas Import),11,98.06,3,1,False,False
+Kacang Kedelai (Kualitas Import),12,98.53,3,1,False,False
+Kacang Tanah (Jenis Besar),1,99.87,3,1,False,False
+Kacang Tanah (Jenis Besar),2,99.2,3,1,False,False
+Kacang Tanah (Jenis Besar),3,99.96,3,2,False,False
+Kacang Tanah (Jenis Besar),4,99.82,3,2,False,False
+Kacang Tanah (Jenis Besar),5,99.07,3,1,False,False
+Kacang Tanah (Jenis Besar),6,98.83,3,1,False,False
+Kacang Tanah (Jenis Besar),7,98.36,3,0,False,False
+Kacang Tanah (Jenis Besar),8,99.35,3,1,False,False
+Kacang Tanah (Jenis Besar),9,99.5,3,1,False,False
+Kacang Tanah (Jenis Besar),10,98.29,3,0,False,False
+Kacang Tanah (Jenis Besar),11,100.03,3,1,False,False
+Kacang Tanah (Jenis Besar),12,107.72,3,1,False,False
+Kentang,1,98.51,3,1,False,False
+Kentang,2,100.69,3,2,False,False
+Kentang,3,99.15,3,1,False,False
+Kentang,4,99.72,3,1,False,False
+Kentang,5,98.08,3,1,False,False
+Kentang,6,99.85,3,1,False,False
+Kentang,7,101.27,3,1,False,False
+Kentang,8,103.25,3,2,False,False
+Kentang,9,105.99,3,2,False,False
+Kentang,10,98.4,3,1,False,False
+Kentang,11,97.2,3,1,False,False
+Kentang,12,97.9,3,1,False,False
+Kubis,1,108.46,3,1,False,False
+Kubis,2,97.86,3,1,False,False
+Kubis,3,94.61,3,1,False,False
+Kubis,4,99.47,3,2,False,False
+Kubis,5,105.31,3,1,False,False
+Kubis,6,106.52,3,1,False,False
+Kubis,7,100.57,3,2,False,False
+Kubis,8,98.01,3,1,False,False
+Kubis,9,96.37,3,1,False,False
+Kubis,10,94.39,3,1,False,False
+Kubis,11,95.77,3,1,False,False
+Kubis,12,102.66,3,2,False,False
+Mentega Curah (Amanda),1,96.87,3,0,False,True
+Mentega Curah (Amanda),2,97.69,3,1,False,False
+Mentega Curah (Amanda),3,100.4,3,2,False,False
+Mentega Curah (Amanda),4,101.05,3,2,False,False
+Mentega Curah (Amanda),5,100.94,3,1,False,False
+Mentega Curah (Amanda),6,100.64,3,1,False,False
+Mentega Curah (Amanda),7,100.92,3,1,False,False
+Mentega Curah (Amanda),8,100.85,3,1,False,False
+Mentega Curah (Amanda),9,100.25,3,1,False,False
+Mentega Curah (Amanda),10,99.4,3,1,False,False
+Mentega Curah (Amanda),11,99.74,3,1,False,False
+Mentega Curah (Amanda),12,101.23,3,1,False,False
+"Susu Kental Manis ""INDOMILK"" Putih",1,97.61,3,0,False,False
+"Susu Kental Manis ""INDOMILK"" Putih",2,97.45,3,0,False,False
+"Susu Kental Manis ""INDOMILK"" Putih",3,98.8,3,0,False,False
+"Susu Kental Manis ""INDOMILK"" Putih",4,99.86,3,1,False,False
+"Susu Kental Manis ""INDOMILK"" Putih",5,100.74,3,2,False,False
+"Susu Kental Manis ""INDOMILK"" Putih",6,101.04,3,2,False,False
+"Susu Kental Manis ""INDOMILK"" Putih",7,101.15,3,2,False,False
+"Susu Kental Manis ""INDOMILK"" Putih",8,101.18,3,3,False,False
+"Susu Kental Manis ""INDOMILK"" Putih",9,101.41,3,3,False,False
+"Susu Kental Manis ""INDOMILK"" Putih",10,100.15,3,2,False,False
+"Susu Kental Manis ""INDOMILK"" Putih",11,100.11,3,2,False,False
+"Susu Kental Manis ""INDOMILK"" Putih",12,100.5,3,2,False,False
+Telur Ayam Kampung,1,97.33,3,1,False,False
+Telur Ayam Kampung,2,96.26,3,0,False,True
+Telur Ayam Kampung,3,99.08,3,2,False,False
+Telur Ayam Kampung,4,99.11,3,2,False,False
+Telur Ayam Kampung,5,98.08,3,1,False,False
+Telur Ayam Kampung,6,100.58,3,2,False,False
+Telur Ayam Kampung,7,103.18,3,3,True,False
+Telur Ayam Kampung,8,101.92,3,2,False,False
+Telur Ayam Kampung,9,101.31,3,2,False,False
+Telur Ayam Kampung,10,100.51,3,1,False,False
+Telur Ayam Kampung,11,100.46,3,1,False,False
+Telur Ayam Kampung,12,102.2,3,1,False,False
+Tomat,1,107.2,3,3,True,False
+Tomat,2,109.32,3,2,False,False
+Tomat,3,115.44,3,2,False,False
+Tomat,4,140.63,3,2,False,False
+Tomat,5,124.31,3,2,False,False
+Tomat,6,124.73,3,2,False,False
+Tomat,7,103.41,3,1,False,False
+Tomat,8,72.91,3,0,False,True
+Tomat,9,60.3,3,0,False,True
+Tomat,10,60.6,3,0,False,True
+Tomat,11,84.26,3,0,False,True
+Tomat,12,96.88,3,1,False,False
+Udang Segar (Uk. Sedang),1,101.21,3,2,False,False
+Udang Segar (Uk. Sedang),2,101.4,3,2,False,False
+Udang Segar (Uk. Sedang),3,100.87,3,2,False,False
+Udang Segar (Uk. Sedang),4,100.95,3,3,False,False
+Udang Segar (Uk. Sedang),5,100.64,3,2,False,False
+Udang Segar (Uk. Sedang),6,98.42,3,0,False,False
+Udang Segar (Uk. Sedang),7,98.14,3,1,False,False
+Udang Segar (Uk. Sedang),8,99.17,3,0,False,False
+Udang Segar (Uk. Sedang),9,99.7,3,2,False,False
+Udang Segar (Uk. Sedang),10,100.77,3,2,False,False
+Udang Segar (Uk. Sedang),11,100.23,3,2,False,False
+Udang Segar (Uk. Sedang),12,98.49,3,1,False,False

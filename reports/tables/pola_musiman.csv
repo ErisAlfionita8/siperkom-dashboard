@@ -1,0 +1,16 @@
+komoditas,jumlah_tahun,bulan_tinggi_konsisten,bulan_rendah_konsisten,jumlah_bulan_konsisten,amplitudo_indeks,indikasi_musiman
+Bawang Bombay,3,"Mei, Jun, Jul","Jan, Feb, Mar, Nov, Des",8,41.09,Ada indikasi
+Bayam (Jenis Sayur),3,"Apr, Mei, Jun, Des","Jan, Sep",6,10.7,Ada indikasi
+Tomat,3,Jan,"Agu, Sep, Okt, Nov",5,80.33,Ada indikasi
+Garam Halus (Cap Kapal),3,"Okt, Nov, Des",tidak ada,3,7.05,Ada indikasi
+Telur Ayam Kampung,3,Jul,Feb,2,6.92,Ada indikasi
+Beras Jagung,3,tidak ada,Jan,1,19.65,Ada indikasi
+Mentega Curah (Amanda),3,tidak ada,Jan,1,4.36,Ada indikasi
+Kacang Kedelai (Kualitas Import),3,tidak ada,tidak ada,0,8.19,Tidak jelas
+Kacang Hijau,3,tidak ada,tidak ada,0,4.08,Tidak jelas
+Gula Jawa/Merah (Bahan Kelapa),2,tidak ada,tidak ada,0,5.32,Data tahun kurang
+Kacang Tanah (Jenis Besar),3,tidak ada,tidak ada,0,9.43,Tidak jelas
+Kubis,3,tidak ada,tidak ada,0,14.07,Tidak jelas
+Kentang,3,tidak ada,tidak ada,0,8.79,Tidak jelas
+"Susu Kental Manis ""INDOMILK"" Putih",3,tidak ada,tidak ada,0,3.96,Tidak jelas
+Udang Segar (Uk. Sedang),3,tidak ada,tidak ada,0,3.26,Tidak jelas

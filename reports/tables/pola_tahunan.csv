@@ -1,0 +1,41 @@
+komoditas,tahun,rata2_harga,bulan_tercatat,tahun_parsial,perubahan_vs_tahun_lalu_pct,bulan_sebanding
+Bawang Bombay,2023,28911.0,12,False,,0
+Bawang Bombay,2024,32472.0,12,False,12.31,12
+Bawang Bombay,2025,33025.0,12,False,1.7,12
+Bawang Bombay,2026,32291.0,8,True,-2.7,8
+Bayam (Jenis Sayur),2023,1754.0,12,False,,0
+Bayam (Jenis Sayur),2024,1769.0,12,False,0.86,12
+Bayam (Jenis Sayur),2025,2156.0,12,False,21.84,12
+Bayam (Jenis Sayur),2026,2771.0,8,True,28.46,8
+Buncis,2023,13272.0,12,False,,0
+Buncis,2024,14195.0,12,False,6.95,12
+Buncis,2025,13265.0,12,False,-6.55,12
+Buncis,2026,15079.0,8,True,15.95,8
+Kacang Kedelai (Kualitas Lokal),2023,13698.0,12,False,,0
+Kacang Kedelai (Kualitas Lokal),2024,15138.0,12,False,10.51,12
+Kacang Kedelai (Kualitas Lokal),2025,14503.0,12,False,-4.19,12
+Kacang Kedelai (Kualitas Lokal),2026,14440.0,8,True,1.45,8
+Kangkung (Jenis Panjang),2023,1542.0,12,False,,0
+Kangkung (Jenis Panjang),2024,1457.0,12,False,-5.5,12
+Kangkung (Jenis Panjang),2025,1948.0,12,False,33.7,12
+Kangkung (Jenis Panjang),2026,1832.0,8,True,-2.64,8
+Kubis,2023,8282.0,12,False,,0
+Kubis,2024,8575.0,12,False,3.54,12
+Kubis,2025,7702.0,12,False,-10.18,12
+Kubis,2026,9615.0,8,True,28.63,8
+Sawi (Jenis Hijau),2023,1998.0,12,False,,0
+Sawi (Jenis Hijau),2024,2134.0,12,False,6.79,12
+Sawi (Jenis Hijau),2025,2300.0,12,False,7.8,12
+Sawi (Jenis Hijau),2026,2534.0,8,True,10.87,8
+Terong Ungu (Jenis Sayur),2023,8826.0,12,False,,0
+Terong Ungu (Jenis Sayur),2024,8564.0,12,False,-2.98,12
+Terong Ungu (Jenis Sayur),2025,8509.0,12,False,-0.64,12
+Terong Ungu (Jenis Sayur),2026,9327.0,8,True,6.08,8
+Tomat,2023,10578.0,12,False,,0
+Tomat,2024,13627.0,12,False,28.82,12
+Tomat,2025,12105.0,12,False,-11.17,12
+Tomat,2026,11349.0,8,True,-15.52,8
+Wortel (Kualitas Lokal),2023,11505.0,12,False,,0
+Wortel (Kualitas Lokal),2024,11989.0,12,False,4.2,12
+Wortel (Kualitas Lokal),2025,13210.0,12,False,10.18,12
+Wortel (Kualitas Lokal),2026,14256.0,8,True,10.01,8

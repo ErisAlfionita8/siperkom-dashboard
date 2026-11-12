@@ -1,0 +1,16 @@
+komoditas,kelompok,kelas_mutu,pct_seluruh,pct_bulan_valid,pct_anomali,lubang_terpanjang_hari,n_lubang,bulan_deret,keaktifan_pct,ditentukan_penentu_seri
+Bawang Bombay,Bawang,A,99.7,100.0,0.0,3,2,44,90.7,False
+Beras Jagung,Beras,A,99.7,100.0,0.0,3,2,44,48.8,False
+Gula Jawa/Merah (Bahan Kelapa),Gula,B,98.4,97.7,0.0,17,3,44,72.1,False
+Udang Segar (Uk. Sedang),Ikan dan udang,A,99.7,100.0,0.0,3,2,44,83.7,False
+Kacang Hijau,"Kacang, jagung, olahan kedelai",A,99.7,100.0,0.0,3,2,44,88.4,False
+Kacang Kedelai (Kualitas Import),"Kacang, jagung, olahan kedelai",A,99.6,100.0,0.0,3,4,44,86.0,False
+Kacang Tanah (Jenis Besar),"Kacang, jagung, olahan kedelai",A,99.7,100.0,0.0,3,2,44,67.4,True
+Garam Halus (Cap Kapal),Lainnya,A,99.7,100.0,0.0,3,2,44,53.5,False
+Mentega Curah (Amanda),Minyak dan lemak,A,99.4,100.0,0.0,3,5,44,46.5,False
+Tomat,Sayuran,A,99.7,100.0,0.075,3,2,44,100.0,False
+Bayam (Jenis Sayur),Sayuran,A,99.7,100.0,0.0,3,2,44,97.7,True
+Kubis,Sayuran,A,99.7,100.0,0.075,3,2,44,97.7,True
+"Susu Kental Manis ""INDOMILK"" Putih",Susu,A,99.7,100.0,0.0,3,2,44,27.9,False
+Telur Ayam Kampung,Telur,A,99.6,100.0,0.075,3,3,44,74.4,False
+Kentang,Umbi,A,99.7,100.0,0.0,3,2,44,88.4,True
