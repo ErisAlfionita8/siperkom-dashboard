@@ -1,0 +1,11 @@
+komoditas,n_bulan,ties_pct,r1_sen,r1_lowess,p_lb_lag1_sen,p_lb_lag3_sen,p_lb_lag5_sen,p_lb_lag10_sen,p_ljungbox_sen,lag_terkuat_sen,p_lb_lag1_lowess,p_lb_lag3_lowess,p_lb_lag5_lowess,p_lb_lag10_lowess,p_ljungbox_lowess,lag_terkuat_lowess,independen,p_musiman,p_shapiro,p_heteroskedastis,p_runs,tanpa_musiman,residual_normal,residual_acak,homoskedastis
+Bawang Bombay,44,0.0,0.68,0.73,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,0.0,0.0,0.0,10,False,0.0698,0.0035,0.0012,0.0023,True,False,False,False
+Bayam (Jenis Sayur),44,2.27,0.65,0.63,0.0,0.0001,0.0005,0.0112,0.0,1,0.0,0.0001,0.001,0.0155,0.0001,1,False,0.0985,0.0,0.2966,0.0327,True,False,False,True
+Buncis,44,0.0,0.42,0.33,0.0042,0.008,0.0225,0.1004,0.017,1,0.0246,0.0005,0.0007,0.0085,0.002,3,False,0.0904,0.067,0.9978,0.006,True,True,False,True
+Kacang Kedelai (Kualitas Lokal),44,6.82,0.77,0.76,0.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,0.0,0.0,10,False,0.3403,0.6303,0.5702,0.0,True,True,False,True
+Kangkung (Jenis Panjang),44,6.82,0.76,0.48,0.0,0.0,0.0,0.0,0.0,10,0.0009,0.0001,0.0003,0.0003,0.0003,3,False,0.9993,0.0027,0.9378,0.0,True,False,False,True
+Kubis,44,0.0,0.7,0.57,0.0,0.0,0.0,0.0,0.0,3,0.0001,0.0012,0.0065,0.001,0.0004,1,False,0.8435,0.0238,0.1449,0.0,True,False,False,True
+Sawi (Jenis Hijau),44,22.73,0.65,0.52,0.0,0.0,0.0001,0.0001,0.0,1,0.0003,0.0018,0.0007,0.0003,0.0011,10,False,0.2717,0.389,0.7258,0.0001,True,True,False,True
+Terong Ungu (Jenis Sayur),44,4.55,0.76,0.67,0.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,0.0,0.0,10,False,0.024,0.1559,0.0059,0.0003,False,True,False,False
+Tomat,44,0.0,0.67,0.68,0.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,0.0,0.0,10,False,0.0235,0.0051,0.0782,0.0023,False,False,False,True
+Wortel (Kualitas Lokal),44,0.0,0.67,0.65,0.0,0.0,0.0,0.0,0.0,10,0.0,0.0,0.0,0.0,0.0,10,False,0.2713,0.024,0.0065,0.0,True,False,False,False

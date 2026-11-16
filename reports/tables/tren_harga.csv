@@ -1,11 +1,11 @@
-komoditas,harga_awal,harga_akhir,perubahan_total_pct,slope_rp_per_bulan,slope_pct_per_bulan,r2,arah_tren
-Bayam (Jenis Sayur),1648.0,2301.0,39.6,27.0,1.3,0.51,Naik
-Kangkung (Jenis Panjang),1484.0,1833.0,23.55,13.0,0.76,0.43,Naik
-Sawi (Jenis Hijau),1855.0,2587.0,39.48,15.0,0.66,0.71,Naik
-Wortel (Kualitas Lokal),11479.0,15041.0,31.03,72.0,0.57,0.34,Naik
-Bawang Bombay,21816.0,30925.0,41.76,111.0,0.35,0.11,Naik
-Buncis,11622.0,16527.0,42.2,36.0,0.26,0.07,Naik
-Kubis,10770.0,9048.0,-15.98,15.0,0.18,0.03,Stabil
-Kacang Kedelai (Kualitas Lokal),13016.0,14734.0,13.2,25.0,0.17,0.09,Stabil
-Terong Ungu (Jenis Sayur),9535.0,9541.0,0.06,4.0,0.04,0.01,Stabil
-Tomat,11641.0,9989.0,-14.19,-17.0,-0.14,0.0,Stabil
+komoditas,n_observasi,harga_awal,harga_akhir,perubahan_total_pct,median_harga,sen_rp_per_bulan,sen_pct_per_bulan,sen_ci_low,sen_ci_high,ci_tak_memuat_nol,tau,p_mk_biasa,p_hamed_rao,arah_sen,kesimpulan_tren,berbeda_metode
+Bayam (Jenis Sayur),44,1648.0,2301.0,39.6,1906.0,20.0,1.06,15.0,26.0,True,0.65,6.007070396663039e-10,5.829802203005663e-05,Naik,Naik,False
+Sawi (Jenis Hijau),44,1855.0,2587.0,39.48,2187.0,15.0,0.69,10.0,20.0,True,0.66,1.9597123923631443e-10,4.9598914708459674e-05,Naik,Naik,False
+Kangkung (Jenis Panjang),44,1484.0,1833.0,23.55,1616.0,11.0,0.68,3.0,18.0,True,0.36,0.0005610290392588091,0.0680055864102449,Naik,Tidak konklusif,True
+Wortel (Kualitas Lokal),44,11479.0,15041.0,31.03,12462.0,78.0,0.62,36.0,119.0,True,0.42,7.040732998198074e-05,1.6996529272894634e-07,Naik,Naik,False
+Bawang Bombay,44,21816.0,30925.0,41.76,32095.0,118.0,0.37,3.0,210.0,True,0.23,0.0254008114721187,0.12570529329174374,Naik,Tidak konklusif,True
+Buncis,44,11622.0,16527.0,42.2,13636.0,37.0,0.27,-2.0,79.0,False,0.19,0.06714809952404499,0.04807859743821519,Naik,Tidak konklusif,True
+Kubis,44,10770.0,9048.0,-15.98,8088.0,20.0,0.24,-14.0,59.0,False,0.14,0.19896310814724005,0.47429865246938574,Naik,Tidak signifikan,False
+Kacang Kedelai (Kualitas Lokal),44,13016.0,14734.0,13.2,14284.0,29.0,0.2,-6.0,69.0,False,0.27,0.011107896907398995,0.08035316886412525,Naik,Tidak signifikan,True
+Terong Ungu (Jenis Sayur),44,9535.0,9541.0,0.06,8691.0,-2.0,-0.03,-21.0,17.0,False,-0.03,0.808169761053084,0.8735584223359738,Turun,Tidak signifikan,False
+Tomat,44,11641.0,9989.0,-14.19,11578.0,-17.0,-0.14,-132.0,95.0,False,-0.05,0.6490072252715706,1.0699377623657469e-05,Turun,Tidak konklusif,True
