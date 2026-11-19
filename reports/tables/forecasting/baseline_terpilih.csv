@@ -1,0 +1,11 @@
+﻿komoditas,baseline_terpilih,mae_terpilih,mae_naive,vs_naive_pct,lipatan_menang_vs_naive,p_dm_vs_naive,selisih_bermakna,baseline_final
+Bawang Bombay,ma_30,437.0029,448.2286,-2.5045,3.0,0.7845,False,naive
+Bayam (Jenis Sayur),naive,195.1429,195.1429,0.0,,,False,naive
+Buncis,ma_7,1101.3714,1695.2,-35.03,5.0,0.0592,False,naive
+Kacang Kedelai (Kualitas Lokal),snaive_7,71.4286,457.1429,-84.375,5.0,0.0,True,snaive_7
+Kangkung (Jenis Panjang),naive,14.2286,14.2286,0.0,,,False,naive
+Kubis,naive,356.5714,356.5714,0.0,,,False,naive
+Sawi (Jenis Hijau),ma_30,123.2352,152.4,-19.137,3.0,0.4521,False,naive
+Terong Ungu (Jenis Sayur),naive,304.7429,304.7429,0.0,,,False,naive
+Tomat,drift,349.4948,352.4,-0.8244,4.0,0.0837,False,naive
+Wortel (Kualitas Lokal),naive,403.9714,403.9714,0.0,,,False,naive

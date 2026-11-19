@@ -1,0 +1,11 @@
+,model,n_latih,order,seasonal,params
+Bawang Bombay,naive,,,,
+Bayam (Jenis Sayur),naive,,,,
+Buncis,sarima,1311,"(0, 0, 1)","(0, 1, 1)",
+Kacang Kedelai (Kualitas Lokal),sarima,1311,"(0, 1, 0)","(0, 1, 0)",
+Kangkung (Jenis Panjang),naive,,,,
+Kubis,arima,1311,"(0, 1, 0)",,
+Sawi (Jenis Hijau),xgboost,1311,,,"{'max_depth': 2, 'n_estimators': 300}"
+Terong Ungu (Jenis Sayur),naive,,,,
+Tomat,naive,,,,
+Wortel (Kualitas Lokal),xgboost,1311,,,"{'max_depth': 2, 'n_estimators': 100}"

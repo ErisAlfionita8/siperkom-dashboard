@@ -1,0 +1,11 @@
+komoditas,naive,arima,sarima,xgboost,pemenang,rasio_vs_naive
+Bawang Bombay,448.229,470.965,455.328,453.998,naive,1.0
+Bayam (Jenis Sayur),195.143,195.143,195.143,229.475,naive,1.0
+Buncis,1695.2,1886.519,1488.821,1618.353,sarima,0.878
+Kacang Kedelai (Kualitas Lokal),457.143,457.143,105.262,376.776,sarima,0.23
+Kangkung (Jenis Panjang),14.229,14.229,14.229,14.229,naive,1.0
+Kubis,356.571,351.907,428.854,357.26,arima,0.987
+Sawi (Jenis Hijau),152.4,137.009,135.857,131.83,xgboost,0.865
+Terong Ungu (Jenis Sayur),304.743,327.929,391.215,318.793,naive,1.0
+Tomat,352.4,454.331,373.197,362.744,naive,1.0
+Wortel (Kualitas Lokal),403.971,429.304,427.57,381.461,xgboost,0.944

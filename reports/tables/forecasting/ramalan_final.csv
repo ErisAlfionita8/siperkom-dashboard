@@ -1,0 +1,71 @@
+komoditas,model,tanggal,h,ramalan
+Bawang Bombay,naive,2026-09-01,1,31429
+Bawang Bombay,naive,2026-09-02,2,31429
+Bawang Bombay,naive,2026-09-03,3,31429
+Bawang Bombay,naive,2026-09-04,4,31429
+Bawang Bombay,naive,2026-09-05,5,31429
+Bawang Bombay,naive,2026-09-06,6,31429
+Bawang Bombay,naive,2026-09-07,7,31429
+Bayam (Jenis Sayur),naive,2026-09-01,1,2250
+Bayam (Jenis Sayur),naive,2026-09-02,2,2250
+Bayam (Jenis Sayur),naive,2026-09-03,3,2250
+Bayam (Jenis Sayur),naive,2026-09-04,4,2250
+Bayam (Jenis Sayur),naive,2026-09-05,5,2250
+Bayam (Jenis Sayur),naive,2026-09-06,6,2250
+Bayam (Jenis Sayur),naive,2026-09-07,7,2250
+Buncis,sarima,2026-09-01,1,17201
+Buncis,sarima,2026-09-02,2,17005
+Buncis,sarima,2026-09-03,3,16516
+Buncis,sarima,2026-09-04,4,16490
+Buncis,sarima,2026-09-05,5,16966
+Buncis,sarima,2026-09-06,6,17591
+Buncis,sarima,2026-09-07,7,17452
+Kacang Kedelai (Kualitas Lokal),sarima,2026-09-01,1,15750
+Kacang Kedelai (Kualitas Lokal),sarima,2026-09-02,2,14250
+Kacang Kedelai (Kualitas Lokal),sarima,2026-09-03,3,14250
+Kacang Kedelai (Kualitas Lokal),sarima,2026-09-04,4,14250
+Kacang Kedelai (Kualitas Lokal),sarima,2026-09-05,5,15750
+Kacang Kedelai (Kualitas Lokal),sarima,2026-09-06,6,15750
+Kacang Kedelai (Kualitas Lokal),sarima,2026-09-07,7,14250
+Kangkung (Jenis Panjang),naive,2026-09-01,1,1833
+Kangkung (Jenis Panjang),naive,2026-09-02,2,1833
+Kangkung (Jenis Panjang),naive,2026-09-03,3,1833
+Kangkung (Jenis Panjang),naive,2026-09-04,4,1833
+Kangkung (Jenis Panjang),naive,2026-09-05,5,1833
+Kangkung (Jenis Panjang),naive,2026-09-06,6,1833
+Kangkung (Jenis Panjang),naive,2026-09-07,7,1833
+Kubis,arima,2026-09-01,1,8500
+Kubis,arima,2026-09-02,2,8500
+Kubis,arima,2026-09-03,3,8500
+Kubis,arima,2026-09-04,4,8500
+Kubis,arima,2026-09-05,5,8500
+Kubis,arima,2026-09-06,6,8500
+Kubis,arima,2026-09-07,7,8500
+Sawi (Jenis Hijau),xgboost,2026-09-01,1,2750
+Sawi (Jenis Hijau),xgboost,2026-09-02,2,2750
+Sawi (Jenis Hijau),xgboost,2026-09-03,3,2750
+Sawi (Jenis Hijau),xgboost,2026-09-04,4,2750
+Sawi (Jenis Hijau),xgboost,2026-09-05,5,2750
+Sawi (Jenis Hijau),xgboost,2026-09-06,6,2750
+Sawi (Jenis Hijau),xgboost,2026-09-07,7,2750
+Terong Ungu (Jenis Sayur),naive,2026-09-01,1,9667
+Terong Ungu (Jenis Sayur),naive,2026-09-02,2,9667
+Terong Ungu (Jenis Sayur),naive,2026-09-03,3,9667
+Terong Ungu (Jenis Sayur),naive,2026-09-04,4,9667
+Terong Ungu (Jenis Sayur),naive,2026-09-05,5,9667
+Terong Ungu (Jenis Sayur),naive,2026-09-06,6,9667
+Terong Ungu (Jenis Sayur),naive,2026-09-07,7,9667
+Tomat,naive,2026-09-01,1,9667
+Tomat,naive,2026-09-02,2,9667
+Tomat,naive,2026-09-03,3,9667
+Tomat,naive,2026-09-04,4,9667
+Tomat,naive,2026-09-05,5,9667
+Tomat,naive,2026-09-06,6,9667
+Tomat,naive,2026-09-07,7,9667
+Wortel (Kualitas Lokal),xgboost,2026-09-01,1,14977
+Wortel (Kualitas Lokal),xgboost,2026-09-02,2,14977
+Wortel (Kualitas Lokal),xgboost,2026-09-03,3,14977
+Wortel (Kualitas Lokal),xgboost,2026-09-04,4,14977
+Wortel (Kualitas Lokal),xgboost,2026-09-05,5,14978
+Wortel (Kualitas Lokal),xgboost,2026-09-06,6,14978
+Wortel (Kualitas Lokal),xgboost,2026-09-07,7,14977

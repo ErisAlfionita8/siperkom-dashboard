@@ -1,0 +1,11 @@
+komoditas,model,mae,mae_naive,rasio_vs_naive,status
+Bawang Bombay,naive,606.143,606.143,1.0,naive (menang di validation)
+Bayam (Jenis Sayur),naive,56.536,56.536,1.0,naive (menang di validation)
+Buncis,sarima,764.589,505.857,1.511,kalah dari naive di test
+Kacang Kedelai (Kualitas Lokal),sarima,1017.857,696.429,1.462,kalah dari naive di test
+Kangkung (Jenis Panjang),naive,0.0,0.0,,naive (menang di validation)
+Kubis,arima,357.036,357.036,1.0,setara naive
+Sawi (Jenis Hijau),xgboost,108.929,108.929,1.0,setara naive
+Terong Ungu (Jenis Sayur),naive,273.821,273.821,1.0,naive (menang di validation)
+Tomat,naive,416.857,416.857,1.0,naive (menang di validation)
+Wortel (Kualitas Lokal),xgboost,293.594,283.143,1.037,kalah dari naive di test
