@@ -1,0 +1,255 @@
+{
+  "dibuat": "2026-11-18T09:01:45",
+  "horizon": 7,
+  "seed": 42,
+  "lags_xgboost": [
+    1,
+    7,
+    14,
+    28
+  ],
+  "periode_musiman": 7,
+  "versi": {
+    "pandas": "3.1.0",
+    "statsmodels": "0.15.0",
+    "xgboost": "3.2.0"
+  },
+  "komoditas": {
+    "Bawang Bombay": {
+      "model": "naive",
+      "parameter": {},
+      "berkas_model": null,
+      "fitur_xgboost": null,
+      "nilai_terakhir": 31429.0,
+      "data_awal": "2023-01-01",
+      "data_akhir": "2026-08-31",
+      "n_latih": 1339,
+      "pemenang_validasi": "naive",
+      "mae_validasi": 448.229,
+      "mae_naive_validasi": 448.229,
+      "mae_test": 606.143,
+      "mae_naive_test": 606.143,
+      "rasio_test": 1.0
+    },
+    "Bayam (Jenis Sayur)": {
+      "model": "naive",
+      "parameter": {},
+      "berkas_model": null,
+      "fitur_xgboost": null,
+      "nilai_terakhir": 2250.0,
+      "data_awal": "2023-01-01",
+      "data_akhir": "2026-08-31",
+      "n_latih": 1339,
+      "pemenang_validasi": "naive",
+      "mae_validasi": 195.143,
+      "mae_naive_validasi": 195.143,
+      "mae_test": 56.536,
+      "mae_naive_test": 56.536,
+      "rasio_test": 1.0
+    },
+    "Buncis": {
+      "model": "sarima",
+      "parameter": {
+        "order": [
+          0,
+          0,
+          1
+        ],
+        "seasonal": [
+          0,
+          1,
+          1
+        ]
+      },
+      "berkas_model": "buncis_sarima.pkl",
+      "fitur_xgboost": null,
+      "nilai_terakhir": null,
+      "data_awal": "2023-01-01",
+      "data_akhir": "2026-08-31",
+      "n_latih": 1339,
+      "pemenang_validasi": "sarima",
+      "mae_validasi": 1488.821,
+      "mae_naive_validasi": 1695.2,
+      "mae_test": 764.589,
+      "mae_naive_test": 505.857,
+      "rasio_test": 1.511
+    },
+    "Kacang Kedelai (Kualitas Lokal)": {
+      "model": "sarima",
+      "parameter": {
+        "order": [
+          0,
+          1,
+          0
+        ],
+        "seasonal": [
+          0,
+          1,
+          0
+        ]
+      },
+      "berkas_model": "kacang_kedelai_kualitas_lokal_sarima.pkl",
+      "fitur_xgboost": null,
+      "nilai_terakhir": null,
+      "data_awal": "2023-01-01",
+      "data_akhir": "2026-08-31",
+      "n_latih": 1339,
+      "pemenang_validasi": "sarima",
+      "mae_validasi": 105.262,
+      "mae_naive_validasi": 457.143,
+      "mae_test": 1017.857,
+      "mae_naive_test": 696.429,
+      "rasio_test": 1.462
+    },
+    "Kangkung (Jenis Panjang)": {
+      "model": "naive",
+      "parameter": {},
+      "berkas_model": null,
+      "fitur_xgboost": null,
+      "nilai_terakhir": 1833.0,
+      "data_awal": "2023-01-01",
+      "data_akhir": "2026-08-31",
+      "n_latih": 1339,
+      "pemenang_validasi": "naive",
+      "mae_validasi": 14.229,
+      "mae_naive_validasi": 14.229,
+      "mae_test": 0.0,
+      "mae_naive_test": 0.0,
+      "rasio_test": null
+    },
+    "Kubis": {
+      "model": "arima",
+      "parameter": {
+        "order": [
+          0,
+          1,
+          0
+        ]
+      },
+      "berkas_model": "kubis_arima.pkl",
+      "fitur_xgboost": null,
+      "nilai_terakhir": null,
+      "data_awal": "2023-01-01",
+      "data_akhir": "2026-08-31",
+      "n_latih": 1339,
+      "pemenang_validasi": "arima",
+      "mae_validasi": 351.907,
+      "mae_naive_validasi": 356.571,
+      "mae_test": 357.036,
+      "mae_naive_test": 357.036,
+      "rasio_test": 1.0
+    },
+    "Sawi (Jenis Hijau)": {
+      "model": "xgboost",
+      "parameter": {
+        "params": {
+          "max_depth": 2,
+          "n_estimators": 300
+        }
+      },
+      "berkas_model": "sawi_jenis_hijau_xgboost.json",
+      "fitur_xgboost": [
+        "sel_1",
+        "sel_7",
+        "sel_14",
+        "sel_28",
+        "dev_m7",
+        "dev_m28",
+        "std_7",
+        "h",
+        "tahun",
+        "kuartal",
+        "bulan",
+        "minggu_tahun",
+        "hari_dalam_bulan",
+        "hari_dalam_minggu",
+        "akhir_pekan",
+        "libur",
+        "hari_ke_libur_berikut",
+        "hari_sejak_libur"
+      ],
+      "nilai_terakhir": null,
+      "data_awal": "2023-01-01",
+      "data_akhir": "2026-08-31",
+      "n_latih": 1339,
+      "pemenang_validasi": "xgboost",
+      "mae_validasi": 131.83,
+      "mae_naive_validasi": 152.4,
+      "mae_test": 108.929,
+      "mae_naive_test": 108.929,
+      "rasio_test": 1.0
+    },
+    "Terong Ungu (Jenis Sayur)": {
+      "model": "naive",
+      "parameter": {},
+      "berkas_model": null,
+      "fitur_xgboost": null,
+      "nilai_terakhir": 9667.0,
+      "data_awal": "2023-01-01",
+      "data_akhir": "2026-08-31",
+      "n_latih": 1339,
+      "pemenang_validasi": "naive",
+      "mae_validasi": 304.743,
+      "mae_naive_validasi": 304.743,
+      "mae_test": 273.821,
+      "mae_naive_test": 273.821,
+      "rasio_test": 1.0
+    },
+    "Tomat": {
+      "model": "naive",
+      "parameter": {},
+      "berkas_model": null,
+      "fitur_xgboost": null,
+      "nilai_terakhir": 9667.0,
+      "data_awal": "2023-01-01",
+      "data_akhir": "2026-08-31",
+      "n_latih": 1339,
+      "pemenang_validasi": "naive",
+      "mae_validasi": 352.4,
+      "mae_naive_validasi": 352.4,
+      "mae_test": 416.857,
+      "mae_naive_test": 416.857,
+      "rasio_test": 1.0
+    },
+    "Wortel (Kualitas Lokal)": {
+      "model": "xgboost",
+      "parameter": {
+        "params": {
+          "max_depth": 2,
+          "n_estimators": 100
+        }
+      },
+      "berkas_model": "wortel_kualitas_lokal_xgboost.json",
+      "fitur_xgboost": [
+        "sel_1",
+        "sel_7",
+        "sel_14",
+        "sel_28",
+        "dev_m7",
+        "dev_m28",
+        "std_7",
+        "h",
+        "tahun",
+        "kuartal",
+        "bulan",
+        "minggu_tahun",
+        "hari_dalam_bulan",
+        "hari_dalam_minggu",
+        "akhir_pekan",
+        "libur",
+        "hari_ke_libur_berikut",
+        "hari_sejak_libur"
+      ],
+      "nilai_terakhir": null,
+      "data_awal": "2023-01-01",
+      "data_akhir": "2026-08-31",
+      "n_latih": 1339,
+      "pemenang_validasi": "xgboost",
+      "mae_validasi": 381.461,
+      "mae_naive_validasi": 403.971,
+      "mae_test": 293.594,
+      "mae_naive_test": 283.143,
+      "rasio_test": 1.037
+    }
+  }
+}
