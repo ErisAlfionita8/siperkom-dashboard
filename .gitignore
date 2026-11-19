@@ -14,7 +14,9 @@ __pycache__/
 
 # Credentials and tokens
 credentials.json
+credentials*.json
 token.json
+*.token
 
 # Jupyter Notebook
 .ipynb_checkpoints/
